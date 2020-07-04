@@ -1,6 +1,6 @@
 # lista_tarefa
 
-A new Flutter project.
+Uma lista de tarefas simples feita com Flutter.
 
 ## Getting Started
 
